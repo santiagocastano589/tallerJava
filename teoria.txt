@@ -1,0 +1,37 @@
+Preguntas teoricas
+
+1:Un método en Java es un conjunto de instrucciones definidas dentro de una clase, que realizan una determinada tarea y a las que podemos invocar mediante un nombre
+
+2:Tipos primitivos: int, short, long, double, float, boolean, byte, char.
+Clases de derivador para tipos primitivos: java. lang. Integer, java. lang. ...
+Tipo de serie: java. lang. String.
+Tipos de fecha/hora: java. util. Date, java. util. ...
+Tipos numéricos: java. math. BigInteger, java. math.
+
+3: Método con parámetros y sin retorno
+Este tipo de método toma uno o más parámetros como entrada, es decir, recibe valores que pueden ser utilizados en su lógica interna.
+Realiza una tarea o procesamiento basado en esos parámetros.
+No devuelve ningún valor o, en otras palabras, su tipo de retorno es "void".
+Puede realizar cambios en el estado de objetos o variables fuera del método mediante los parámetros, pero no devuelve un resultado explícito
+
+Método sin parámetros y con retorno:
+Este tipo de método no toma ningún parámetro como entrada.
+Realiza una tarea o procesamiento interno y devuelve un valor como resultado.
+El tipo de retorno del método indica el tipo de valor que se espera recibir cuando se llama al método.
+
+4:Método con parámetros y con retorno:
+Este tipo de método toma uno o más parámetros como entrada, es decir, recibe valores que pueden ser utilizados en su lógica interna.
+Realiza una tarea o procesamiento basado en esos parámetros.
+Devuelve un valor como resultado mediante la declaración de un tipo de retorno diferente de "void".
+
+Método con parámetros y sin retorno
+Este tipo de método también toma uno o más parámetros como entrada, al igual que el método anterior.
+Realiza una tarea o procesamiento basado en esos parámetros.
+Sin embargo, no devuelve ningún valor como resultado, ya que su tipo de retorno es "void".
+
+
+5:Utilizando métodos: - Podemos construir programas modulares. - Se consigue la reutilización de código. En lugar de escribir el mismo código repetido cuando se necesite, por ejemplo para validar una fecha, se hace una llamada al método que lo realiza
+
+6: es una colección de “valores”, de tipos de datos que se almacenan y organizan de tal forma que permiten un acceso y una modificación eficientes
+
+7:Las diferencias principales entre un arreglo, un ArrayList y un HashMap radican en su tamaño, flexibilidad y forma de acceso a los elementos. Los arreglos tienen un tamaño fijo, los ArrayLists son dinámicos y permiten cambios de tamaño, y los HashMaps almacenan pares clave-valor y son eficientes para buscar valores por clave
